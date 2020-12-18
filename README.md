@@ -11,3 +11,6 @@ Prerequisites:
 1. Clone the repo
 2. `bundle install --deployment`
 3. Deploy to dev:  `aws-vault exec dev-admin -- sls deploy`
+
+
+Note: This was adapted from serverless team blog post https://www.serverless.com/blog/api-ruby-serverless-framework
